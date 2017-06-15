@@ -1,0 +1,18 @@
+D:\CC Projects\C#\MyPong\MyPong\obj\Debug\MyPong.csprojResolveAssemblyReference.cache
+D:\CC Projects\C#\MyPong\MyPong\obj\Debug\MyPong.space.resources
+D:\CC Projects\C#\MyPong\MyPong\obj\Debug\MyPong.Properties.Resources.resources
+D:\CC Projects\C#\MyPong\MyPong\obj\Debug\MyPong.csproj.GenerateResource.Cache
+D:\CC Projects\C#\MyPong\MyPong\bin\Debug\MyPong.exe.config
+D:\CC Projects\C#\MyPong\MyPong\bin\Debug\MyPong.exe
+D:\CC Projects\C#\MyPong\MyPong\bin\Debug\MyPong.pdb
+D:\CC Projects\C#\MyPong\MyPong\obj\Debug\MyPong.exe
+D:\CC Projects\C#\MyPong\MyPong\obj\Debug\MyPong.pdb
+D:\C#\MyPong\MyPong\bin\Debug\MyPong.exe.config
+D:\C#\MyPong\MyPong\bin\Debug\MyPong.exe
+D:\C#\MyPong\MyPong\bin\Debug\MyPong.pdb
+D:\C#\MyPong\MyPong\obj\Debug\MyPong.csprojResolveAssemblyReference.cache
+D:\C#\MyPong\MyPong\obj\Debug\MyPong.space.resources
+D:\C#\MyPong\MyPong\obj\Debug\MyPong.Properties.Resources.resources
+D:\C#\MyPong\MyPong\obj\Debug\MyPong.csproj.GenerateResource.Cache
+D:\C#\MyPong\MyPong\obj\Debug\MyPong.exe
+D:\C#\MyPong\MyPong\obj\Debug\MyPong.pdb
